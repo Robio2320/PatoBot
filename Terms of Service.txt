@@ -1,0 +1,87 @@
+Last updated: January 16, 2026
+
+Welcome to PatoBot (hereinafter, "the Bot"). By using this Bot on Discord, you agree to these Terms of Service. If you do not agree with any of them, do not use the Bot.
+
+1. Service
+
+    PatoBot is a Discord bot that offers features such as:
+
+        Entertainment commands: games (Tic-Tac-Toe), random numbers, greetings.
+
+        Music playback and playlist management.
+
+        Text-to-speech (TTS).
+
+        Interaction with artificial intelligence to generate answers to questions.
+
+        User management on servers: deleting messages, banning/unbanning users.
+
+        PatoBot is designed for use only on Discord servers and does not offer any guarantee of constant availability.
+
+2. Use of PatoBot
+
+    By using PatoBot, you agree to:
+
+        Use the Bot responsibly and legally.
+
+        Do not submit content that is illegal, defamatory, offensive, or that infringes on the rights of third parties.
+
+        Do not attempt to manipulate or exploit vulnerabilities in the Bot.
+
+        Keep your credentials secure and do not share them.
+
+        The Bot may automatically generate content, including text and audio, using AI; you are responsible for how you use this content.
+
+3. Privacy and Data
+
+    PatoBot may temporarily store information necessary for its functions, such as:
+
+        Music queues and playlists per server.
+
+        Status of active games (Tic-Tac-Toe).
+
+        The Bot does not store personal information outside of Discord and does not share data with third parties.
+
+        For text-to-speech or AI functions, content is processed temporarily and is not permanently saved.
+
+4. Rights and Ownership
+
+    PatoBot and its code are the property of Robio2320 and PatoCreators Team.
+
+    The commands, AI responses, and functionalities are the intellectual property of the developer.
+
+    You may not redistribute, sell, or modify PatoBot without authorization from Robio2320 or the PatoCreators team.
+
+5. Limitation of Liability
+
+    PatoBot is provided “as is,” without warranties of any kind, express or implied.
+
+    The developer Robio2320 will not be liable for:
+
+        Data loss or service interruptions.
+
+        User-generated or AI-generated content.
+
+        Problems arising from the use of music, links, or downloaded files.
+
+        Use of PatoBot is at your own risk.
+
+6. Modifications
+
+    The Terms of Service may be updated at any time.
+
+    Continued use of PatoBot after changes constitutes acceptance of the new terms.
+
+7. Termination of Service
+
+    The developer may disconnect or restrict the use of PatoBot at any time.
+
+    Administrators of each server may revoke PatoBot's permissions as they see fit.
+
+8. Applicable Law
+
+    These Terms are governed by the laws of the developer's country.
+
+    Any dispute will be resolved in the competent courts.
+
+    By using PatoBot, you confirm that you have read, understood and accepted these Terms of Service.
