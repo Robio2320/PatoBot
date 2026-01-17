@@ -1,28 +1,30 @@
 Last updated: January 16, 2026
 
 1. Information We Collect
+
     PatoBot only collects the information necessary to function properly:
 
-    Server data: Server ID, channel names, and roles required to execute commands.
+        Server data: Server ID, channel names, and roles required to execute commands.
 
-    User data: User ID and username for features such as games, TTS, and music queue tracking.
+        User data: User ID and username for features such as games, TTS, and music queue tracking.
 
-    Command content: Messages sent to the bot to process AI, music, game, or TTS commands.
+        Command content: Messages sent to the bot to process AI, music, game, or TTS commands.
 
-    No sensitive personal data (email, passwords, financial information) is collected, nor are other users' private messages accessed without their consent.
+        No sensitive personal data (email, passwords, financial information) is collected, nor are other users' private messages accessed without their consent.
 
 2. How We Use Information
+
     The collected information is used solely to:
 
-    Manage the music queue and play songs.
+        Manage the music queue and play songs.
 
-    Facilitate interaction in games like Tic-Tac-Toe.
+        Facilitate interaction in games like Tic-Tac-Toe.
 
-    Generate AI responses.
+        Generate AI responses.
 
-    Read text aloud using TTS.
+        Read text aloud using TTS.
 
-    Improve the user experience and bot stability.
+        Improve the user experience and bot stability.
 
 3. Data Storage and Security
 
@@ -33,15 +35,16 @@ Last updated: January 16, 2026
     Basic security measures are implemented to protect information against unauthorized access.
 
 4. Use of External Services
+
     PatoBot may interact with external services such as:
 
-    Music and lyrics APIs (e.g., YouTube, Lyrics.ovh).
+        Music and lyrics APIs (e.g., YouTube, Lyrics.ovh).
 
-    Text-to-speech services (gTTS).
+        Text-to-speech services (gTTS).
 
-    Artificial intelligence APIs (Gemini / Google Generative AI).
+        Artificial intelligence APIs (Gemini / Google Generative AI).
 
-    These services may collect data to function properly. PatoBot does not control how these third parties use the information, and it is recommended to review their privacy policies.
+        These services may collect data to function properly. PatoBot does not control how these third parties use the information, and it is recommended to review their privacy policies.
 
 5. Data Retention
 
@@ -56,7 +59,9 @@ Last updated: January 16, 2026
     You can disconnect the bot from your server at any time, which will delete the stored data related to that server.
 
 7. Policy Changes
+
     We reserve the right to update this privacy policy at any time. We recommend checking this page periodically to stay informed.
 
 8. Contact
+
     If you have any questions about privacy or how PatoBot works, you can contact the developer via Discord "Robio2320" or the email address "PatoCreators@gmail.com".
